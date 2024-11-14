@@ -1,4 +1,4 @@
 {
   "url": "https://servicios-bd.vercel.app",
-  "funcionamiento": "on"
+  "funcionamiento": "on" //off para apagar
 }
